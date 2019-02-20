@@ -46,9 +46,17 @@ th, td {
 }
 
 
-#message {
+#message2 {
     font-family: verdana;
     color: orange;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+#message1 {
+    font-family: verdana;
+    color: indigo;
     font-size: 30px;
     text-align: center;
     
