@@ -9,7 +9,7 @@
     <condition property="ARCHIVE_DIR" value="${env.ARCHIVE_DIR}" else=".">
         <isset property="env.ARCHIVE_DIR" />
     </condition>
-    <property name="warname" value= "JavaHelloWorldApp.war"/>
+    <property name="warname" value= "Hackathon.war"/>
     
     <target name="init">
         <mkdir dir="bin"/>
